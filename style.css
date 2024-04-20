@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color:lightpink ;
+}
+
+.new{
+    margin-bottom: 20px;
+}
+
+#contact iframe {
+
+    width: 100%;
+}
